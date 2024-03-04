@@ -1,0 +1,14 @@
+.container {
+    overflow: hidden;
+    color: #945e08;
+}
+
+.bar {
+    margin-left: 4px;
+    height: 36px;
+    background-color: #f5b041;
+}
+
+.pad {
+    padding: 30px;
+  }
